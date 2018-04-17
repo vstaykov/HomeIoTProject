@@ -18,4 +18,4 @@ If any movement detected - the board starts buzzing and movement is reported onl
 
 Alarm state (ON/OFF) can be controlled from an Adafruit IO feed
 
-![alt text](images/alarm_temp.png "Alarm Feeds")
+![alt text](images/feeds_alarm.png "Alarm Feeds")
